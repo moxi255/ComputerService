@@ -1,0 +1,42 @@
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\Dapper.dll
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\Google.Protobuf.dll
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\MySql.Data.dll
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\Renci.SshNet.dll
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\Dapper.xml
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\Google.Protobuf.xml
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\MySql.Data.xml
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\bin\Debug\Renci.SshNet.xml
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\NING MEI\Desktop\runsql\WindowsService1\WindowsService1\obj\Debug\WindowsService1.GridingHealth.resources
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\BouncyCastle.Crypto.dll
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\Dapper.dll
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\Google.Protobuf.dll
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\MySql.Data.dll
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\Renci.SshNet.dll
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\Ubiety.Dns.Core.dll
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\Dapper.xml
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\Google.Protobuf.xml
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\MySql.Data.xml
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\bin\Debug\Renci.SshNet.xml
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.GridingHealth.resources
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+F:\潘聪\WGZL\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
